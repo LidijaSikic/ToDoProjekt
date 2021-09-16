@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dodaj_zadatak"
+        android:icon="@drawable/ic_baseline_add_24"
+
+        android:title="Dodaj zadatak"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/dodaj_citat"
+        android:icon="@drawable/ic_baseline_self_improvement_24"
+        android:title="Dodaj citat"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/prikazi_sve_citate"
+        android:icon="@drawable/ic_baseline_self_improvement_24"
+        android:title="Prikaži sve citate"
+        app:showAsAction="collapseActionView" />
+
+</menu>

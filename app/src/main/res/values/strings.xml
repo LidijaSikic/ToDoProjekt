@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoProjekt</string>
+    <string name="default_citat">Carpe Diem</string>
+    <string name="citat"></string>
+</resources>
